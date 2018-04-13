@@ -1,0 +1,1 @@
+This was a project based on a small description given with the requirements to create a client for users to interact with that stores information about their capstone. 
